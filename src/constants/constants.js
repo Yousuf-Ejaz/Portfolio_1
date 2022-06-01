@@ -12,7 +12,7 @@ export const projects = [
 	{
 		title: "GitHub Finder",
 		description:
-			"Built using React, GitHub API, ContextAPI, TailwindCSS and DaisyUI. It is a frontend Application to view Github Users and display their details in personalised Manner.Used React.js for designing Frontend and ContextAPI for state management.Used Github API to fetch the relevant data. Used TailwindCSS along with DaisyUI to improve the UI. ",
+			"Built using React, GitHub API, ContextAPI, TailwindCSS and DaisyUI. It is a frontend Application to view Github Users and display their details in personalised Manner. Used React.js for designing Frontend and ContextAPI for state management. Used Github API to fetch the relevant data. Used TailwindCSS along with DaisyUI to improve the UI. ",
 		image: "/images/github-finder.png",
 		tags: ["React", "GitHubAPI", "TailwindCSS", "DaisyUI"],
 		source: "https://github-finder-yousuf-ejaz.vercel.app/",
@@ -32,7 +32,7 @@ export const projects = [
 	{
 		title: "Feedback App",
 		description:
-			"It is a simple feedback Application built using ReactJS.One can add feedback, remove feedback or create a new feedback.",
+			"It is a simple feedback Application built using ReactJS. One can add feedback, remove feedback or create a new feedback.",
 		image: "/images/feedback-app.png",
 		tags: ["React", "Javascript"],
 		source: "https://loquacious-salmiakki-cc01c9.netlify.app/",

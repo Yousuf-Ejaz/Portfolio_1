@@ -20,7 +20,8 @@ const Hero = (props) => (
 					Experiences
 				</SectionTitle>
 				<SectionText>
-					Hi! I'm Yousuf. I'm a Full Stack Web Developer and a Competitive Programmer.
+					Hi! I'm Yousuf, nice to meet you. Please take a look around!
+					
 				</SectionText>
 				<Button onClick={props.handleClick}>About Me</Button>
 			</LeftSection>
