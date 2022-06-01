@@ -21,9 +21,10 @@ const Hero = (props) => (
 				</SectionTitle>
 				<SectionText>
 					Hi! I'm Yousuf, nice to meet you. Please take a look around!
-					
 				</SectionText>
-				<Button onClick={props.handleClick}>About Me</Button>
+				<a href="#about">
+					<Button>About Me</Button>
+				</a>
 			</LeftSection>
 		</Section>
 	</>
